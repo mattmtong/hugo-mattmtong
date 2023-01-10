@@ -1,0 +1,63 @@
+baseURL: https://mattmtong.com
+languageCode: en-us
+title: "Matthew M. Tong"
+theme: PaperMod
+
+params:
+  cover:
+    linkFullImages: false
+  
+  disableAnchoredHeadings: false
+  ShowBreadCrumbs: true
+  assets:
+    favicon: /assets/Logo for Favicon.png
+    favicon16x16: /assets/favicon-16x16.png
+    favicon32x32: /assets/favicon-32x32.png
+
+  label:
+    text: "matt m tong "
+    icon: /assets/logo with space on sides.png
+    iconheight: 35
+
+  ShowReadingTime: true
+
+  comments: false
+
+  homeInfoParams:
+    Title: "Hello there, fellow player of life \U0001F579"
+    Content: Welcome to the Matt Tong corner of the interwebs. 
+
+  socialIcons:
+  - name: Facebook
+    url: "https://www.facebook.com/matt.m.tong/"
+  - name: Youtube
+    url: "https://www.youtube.com/channel/UCdp6Se8HmfFpeyRLTm9ll1A"
+  - name: Instagram
+    url: "https://www.instagram.com/mattsouptong/"
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON 
+
+    
