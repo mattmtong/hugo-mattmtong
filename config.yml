@@ -34,6 +34,8 @@ params:
     url: "https://www.youtube.com/channel/UCdp6Se8HmfFpeyRLTm9ll1A"
   - name: Instagram
     url: "https://www.instagram.com/mattsouptong/"
+  - name: Github
+    url: "https://github.com/mattmtong"
 
 menu:
   main:
