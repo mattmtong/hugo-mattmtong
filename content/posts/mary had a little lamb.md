@@ -6,7 +6,7 @@ tags: ["piano", "recording"]
 categories: ["production notes"]
 ---
 
-Per a friend's idea, I arranged and [uploaded](https://www.instagram.com/p/Bt4t8zzgCZ0/) an overly flourished cover of a familiar nursery rhyme tune. It was a fun challenge, and I'm hoping that this sparks a series of covers that will continue until who knows when. Along with each cover, I plan to write out a companion post on this blog to share my creative process, so here's my first one!
+Thanks to a friend's suggestion, I arranged and [uploaded](https://www.instagram.com/p/Bt4t8zzgCZ0/) an overly flourished cover of a familiar nursery rhyme tune. It was a fun challenge, and I'm hoping that this sparks a series of covers that will continue until who knows when. Along with each cover, I plan to write out a companion post on this blog to share my creative process, so here's my first one!
 
 I started out this cover as I normally do when trying to figure out an arrangement: by just noodling around on the keys. I'd recently been working on [Earl Wild's arrangement of "Embraceable You"](https://music.youtube.com/watch?v=Bg8eGmzNX6s&feature=share), so the idea of having arpeggios wrapped around a melodic line was still fresh in my mind. I decided to try and implement something similar for this nursery tune.  
 

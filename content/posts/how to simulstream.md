@@ -20,7 +20,7 @@ Once you've downloaded and installed the application, open it up, and you should
 
 ![](/img/annotation-2020-09-01-205209_orig.png#center)
 
-OBS is basically a program that lets you create scenes and push those scenes out to a streaming video platform.  That big black screen you see in the middle is called the preview pane, which will show you the preview of what OBS is going to output.  
+OBS is a program that lets you create scenes and push those scenes out to a streaming video platform.  That big black screen you see in the middle is called the preview pane, which will show you the preview of what OBS is going to output.  
 
 You should already have a scene created, but let's create a second scene by clicking the "+" at the bottom left of the "Scenes" module, and title it "Scene 2" so we can try toggling between two different scenes.
 

@@ -37,7 +37,7 @@ The two main ways to gain better piano audio are:
 1. Use better mics/a direct line to pickup your piano sound
 2. Capture [MIDI](https://en.wikipedia.org/wiki/MIDI) data from your digital piano and play it through an app on your computer
 
-I will be using option 2 for a few reasons: I do not have an acoustic piano in my bedroom that I can capture audio from, and I've found that using a direct line from my digital piano results in way too much unwanted noise.
+I will be using option 2 for a few reasons: I do not have an acoustic piano in my bedroom to capture audio from, and I've found that using a direct line from my digital piano results in way too much unwanted noise.
 
 Capturing MIDI data basically means that your piano sends a bunch of numbers to your computer, and then your computer will take those numbers and run them through an application that can translate those numbers into piano sounds. This requires a keyboard that is capable of sending MIDI, along with a MIDI cable. I play on a [Yamaha P515](https://amzn.to/2YhBiQi), which is able to use [5-pin MIDI cables](https://amzn.to/36fgiy4) as well as [MIDI cables that look like printer cables](https://amzn.to/3sY8D0P).  
 
