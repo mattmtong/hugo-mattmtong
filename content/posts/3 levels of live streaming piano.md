@@ -15,6 +15,8 @@ And now, here are **three levels of setup** for anyone who might be interested i
 
 {{<youtube XYNOHw619D4>}}
 
+<br/>
+
 Get your phone, get an adapter (like [this one](https://amzn.to/3qVM4I8)) to attach to a tripod, setup the tripod, and then use your streaming app of choice. Done.
 
 Your phone acts as your one-stop shop for capturing all audio/video and streaming it onto the internet, so it will pick up **whatever sound and activity** is happening in the environment (which can be both good/bad, depending on your needs). For streaming apps, Twitch/YouTube/FaceBook/Instagram/etc all have built-in capabilities to stream straight from the mobile app. You could also look into using something like [Streamlabs](https://streamlabs.com/mobile-app) if you want to add overlays to your stream.  
@@ -28,6 +30,8 @@ If you'd like to gain some cleaner audio and sharper image quality for your stre
 ## Level 2: External Audio/Video + OBS
 
 {{<youtube NOnpA5y9uJw>}}
+
+<br/>
 
 Once you add in the option of external equipment, the combinations can easily get overwhelming and endless... I'll be sharing my personal setup that fits my own situation. Best thing to do is simply try something and modify as needed!
 
@@ -89,6 +93,8 @@ Once things are ready, you can click Start Recording on the bottom right to do a
 ## Level 3: Completely Unnecessary Complications
 
 {{<youtube 3f4X1SgITc4>}}
+
+<br/>
 
 Are you bored and want to make things totally more complicated than they need to be? Congrats, you've come to the right place. This section will have a bunch of bonus elements that you can sprinkle onto your stream to make things a bit more pretty or to add some extra info to your stream.
 
