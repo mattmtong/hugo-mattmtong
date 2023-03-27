@@ -15,7 +15,7 @@ And now, here are **three levels of setup** for anyone who might be interested i
 
 {{<youtube XYNOHw619D4>}}
 
-\
+&nbsp;
 
 Get your phone, get an adapter (like [this one](https://amzn.to/3qVM4I8)) to attach to a tripod, setup the tripod, and then use your streaming app of choice. Done.
 
@@ -31,7 +31,7 @@ If you'd like to gain some cleaner audio and sharper image quality for your stre
 
 {{<youtube NOnpA5y9uJw>}}
 
-\
+&nbsp;
 
 Once you add in the option of external equipment, the combinations can easily get overwhelming and endless... I'll be sharing my personal setup that fits my own situation. Best thing to do is simply try something and modify as needed!
 
@@ -94,7 +94,7 @@ Once things are ready, you can click Start Recording on the bottom right to do a
 
 {{<youtube 3f4X1SgITc4>}}
 
-\
+&nbsp;
 
 Are you bored and want to make things totally more complicated than they need to be? Congrats, you've come to the right place. This section will have a bunch of bonus elements that you can sprinkle onto your stream to make things a bit more pretty or to add some extra info to your stream.
 
