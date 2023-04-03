@@ -55,6 +55,10 @@ menu:
       name: Search
       url: /search/
       weight: 40
+    - identifier: rss
+      name: RSS
+      url: /rss/
+      weight: 50
 
 outputs:
   home:
