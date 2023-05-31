@@ -23,7 +23,7 @@ This is where you have to find the file you just saved and then select it to be 
 ![](/img/m4a-to-mp3-2.png "alt text")
 
 Now tap the "..." menu icon and select MP3 from the selections of file formats.
-Tap "CONVERT" and the website should change to a progress site that shows that the file is being converted.
+Tap "Convert" and the website should change to a progress site that shows that the file is being converted.
 
 ![](/img/m4a-to-mp3-3.png "alt text")
 
