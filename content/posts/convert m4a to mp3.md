@@ -1,12 +1,12 @@
 ---
-title: "Converting Voice Memo M4A to MP3 on the iPhone"
+title: "Converting Voice Memo M4A to MP3 on the iPhone with Convertio"
 date: 2023-05-30T16:39:33-08:00
 draft: false
 tags: ["recording", "iOS"]
 categories: ["tutorials"]
 ---
 
-This is a tutorial on how to convert an M4A file that you made in Voice Memos into an MP3 file that is more easily used by non-Apple devices.
+This is a tutorial on using www.convertio.co to convert an M4A file that you made in Voice Memos into an MP3 file that is more easily used by non-Apple devices.
 
 Open Voice Memos.
 Tap on the recording you want to convert.
