@@ -28,12 +28,14 @@ Tap "Convert" and the website should change to a progress site that shows that t
 ![](/img/m4a-to-mp3-3.png "alt text")
 
 Once the blue "Download" button appears, you can tap that, and tap "Download" again in the dialog box that pops up.
-Then you'll see (at least in Safari) right next the URL bar a little down-arrow download icon with a circle around it to indicate progress.  Once it is fully circled, you can tap it.
+Then you'll see (at least in Safari) right next the URL bar a little down-arrow download icon with a circle around it to indicate progress.  Once it is fully circled, the download is complete.  Tap on it.
 
 ![](/img/m4a-to-mp3-4.png "alt text")
 
-Select "Downloads" from the dropdown menu, and it will show you the file that was just converted.
+After tapping on the download icon, tap "Downloads" from the dropdown menu, and you will see the file that was just converted.
 Tap the magnifying glass icon to go back to the location of the file in the Files app.  
 You can now share or do whatever you'd like with this newly converted MP3 file.
 
 ![](/img/m4a-to-mp3-5.png "alt text")
+
+Happy converting!
