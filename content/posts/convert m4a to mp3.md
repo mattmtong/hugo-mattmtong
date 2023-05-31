@@ -14,7 +14,10 @@ Tap the "..." menu button
 Tap "Save to Files".
 Find the location you would like to save this file to and remember it.  In this example, I'm saving it in iCloud Drive > Voice Memos.
 
+(If you need to create a new folder, find the folder you'd like to create a new folder in, and then tap the "..." menu icon and tap "New Folder")
+
 ![](/img/m4a-to-mp3-1.png#center "alt text")
+
 
 Then open your web browser of choice (Safari for me) and head to www.convertio.co.
 Tap on "Choose Files" and then again on "Choose Files" in the dropdown menu.
