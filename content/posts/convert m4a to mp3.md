@@ -32,7 +32,7 @@ Tap "Convert" and the website should change to a progress site that shows that t
 ![](/img/m4a-to-mp3-3.png)
 
 Once the blue "Download" button appears, you can tap that, and tap "Download" again in the dialog box that pops up.
-Then you'll see (at least in Safari) right next the URL bar a little down-arrow download icon with a circle around it to indicate progress.  Once it is fully circled, the download is complete.  Tap on it.
+Then you'll see (at least in Safari) right next to the URL bar, there is a little down-arrow download icon with a circle around it to indicate progress.  Once it is fully circled, the download is complete.  Tap on it.
 
 ![](/img/m4a-to-mp3-4.png)
 
