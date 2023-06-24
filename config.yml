@@ -1,15 +1,17 @@
 baseURL: https://mattmtong.com
 languageCode: en-us
 title: "Matthew M. Tong"
-theme: PaperMod
+theme: PaperModX
 
 params:
   cover:
     linkFullImages: false
-  
+
+  EnableInstantClick: true
   disableAnchoredHeadings: false
   ShowBreadCrumbs: true
   ShowFullTextinRSS: true
+
   assets:
     favicon: /assets/Logo for Favicon.png
     favicon16x16: /assets/favicon-16x16.png
@@ -21,7 +23,7 @@ params:
     iconheight: 35
 
   ShowReadingTime: true
-
+  
   comments: false
 
   homeInfoParams:
