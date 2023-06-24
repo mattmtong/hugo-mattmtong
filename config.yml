@@ -7,7 +7,7 @@ params:
   cover:
     linkFullImages: false
 
-
+  defaultTheme: auto
   disableAnchoredHeadings: true
   ShowBreadCrumbs: true
   ShowFullTextinRSS: true
@@ -19,8 +19,11 @@ params:
 
   label:
     text: "matt m tong "
-    icon: /assets/logowithspaceonsides.png
-    iconheight: 35
+  
+
+
+  //icon: /assets/logowithspaceonsides.png
+  //iconheight: 35
 
   ShowReadingTime: true
 
