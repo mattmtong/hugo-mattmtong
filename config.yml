@@ -9,6 +9,7 @@ params:
   
   disableAnchoredHeadings: false
   ShowBreadCrumbs: true
+  ShowFullTextinRSS: true
   assets:
     favicon: /assets/Logo for Favicon.png
     favicon16x16: /assets/favicon-16x16.png
@@ -36,6 +37,8 @@ params:
     url: "https://www.instagram.com/mattsouptong/"
   - name: Github
     url: "https://github.com/mattmtong"
+  - name: RSS
+    url: "https://mattmtong.com/index.xml"
 
 menu:
   main:
