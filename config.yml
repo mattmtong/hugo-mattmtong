@@ -16,7 +16,7 @@ params:
 
   label:
     text: "matt m tong "
-    icon: /assets/logo with space on sides.png
+    icon: /assets/logowithspaceonsides.png
     iconheight: 35
 
   ShowReadingTime: true
