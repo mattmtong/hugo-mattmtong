@@ -1,7 +1,7 @@
 baseURL: https://mattmtong.com
 languageCode: en-us
 title: "Matthew M. Tong"
-theme: PaperMod
+theme: PaperModX
 
 params:
   cover:
