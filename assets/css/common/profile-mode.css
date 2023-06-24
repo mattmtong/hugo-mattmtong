@@ -17,7 +17,6 @@
 .profile img {
     display: inline-table;
     border-radius: 50%;
-    pointer-events: none;
 }
 
 .buttons {
@@ -27,7 +26,7 @@
 }
 
 .button {
-    background: var(--tertiary-bg);
+    background: var(--tertiary);
     border-radius: var(--radius);
     margin: 8px;
     padding: 6px;
