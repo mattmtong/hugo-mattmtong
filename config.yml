@@ -27,7 +27,7 @@ params:
 
   ShowReadingTime: true
 
-  comments: false
+  comments: true
 
   homeInfoParams:
     Title: "Hello there, fellow player of life \U0001F579"
