@@ -20,6 +20,10 @@ params:
   label:
     text: "matt m tong "
   
+  editPost:
+        URL: "https://github.com/mattmtong/hugo-mattmtong/tree/master/content"
+        Text: "Suggest Changes" # edit text
+        appendFilePath: true # to append file path to Edit link
 
 
   //icon: /assets/logowithspaceonsides.png
