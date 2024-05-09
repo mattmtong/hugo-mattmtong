@@ -21,6 +21,8 @@ params:
 
   label:
     text: "matt m tong "
+    icon: /img/logo_dark.png
+    iconheight: 30
   
   editPost:
         URL: "https://github.com/mattmtong/hugo-mattmtong/tree/master/content"
@@ -28,8 +30,7 @@ params:
         appendFilePath: true # to append file path to Edit link
 
 
-  //icon: /assets/logowithspaceonsides.png
-  //iconheight: 35
+ 
 
   ShowReadingTime: true
 
