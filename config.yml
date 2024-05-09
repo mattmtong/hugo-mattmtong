@@ -65,7 +65,10 @@ menu:
       name: Archives
       url: /archives/
       weight: 30
-      
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 40
 
 outputs:
   home:
