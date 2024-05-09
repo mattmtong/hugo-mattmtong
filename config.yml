@@ -11,6 +11,7 @@ params:
   disableAnchoredHeadings: true
   ShowBreadCrumbs: true
   ShowFullTextinRSS: true
+  Params.assets.disableScrollBarStyle: true
 
   assets:
     favicon: /assets/Logo for Favicon.png
