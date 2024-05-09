@@ -12,7 +12,7 @@ categories: ["tutorials"]
 
 I've always found the top-down angle of the piano keyboard to be a very clean look. It shows exactly where the fingers are landing, and provides a good perspective of how the hand is moving across the keys.
 
-I recently uploaded a [YouTube piano recording](https://youtu.be/V9QtHRLfIEo){:target="_blank"} of "A Mother's Prayer" by the Gettys using this angle. Some people asked how I achieved this view of my piano keys, so I'm writing this to share the setup that I used. Links will be provided for all of my gear, should you want to try this out for your own recordings!
+I recently uploaded a [YouTube piano recording](https://youtu.be/V9QtHRLfIEo) of "A Mother's Prayer" by the Gettys using this angle. Some people asked how I achieved this view of my piano keys, so I'm writing this to share the setup that I used. Links will be provided for all of my gear, should you want to try this out for your own recordings!
 
 My camera rig consists of the following: an [iPhone SE](https://a.co/d/cJobpg4), a [boom mic stand](https://a.co/d/8NjVBIE), a [screw adapter](https://a.co/d/aGni9uZ), and a [phone tripod adapter](https://a.co/d/aOg3RQV). A lightweight camera works best, as it minimizes the amount of strain that is placed onto the stand. Place the boom mic stand right behind the keyboard, and then fiddle with adjustments until the phone is positioned above the center of the piano, at a height where you can still see the screen. Head into the iPhone's stock camera app, and there should be a cross hair that shows up in the center that helps you align the phone so that it's parallel to the floor. You can also turn on the grid lines in the settings to help with framing (Settings > Camera > Grid).
 
