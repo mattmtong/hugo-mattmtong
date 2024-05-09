@@ -1,7 +1,7 @@
 ---
 title: "How to Review Vids In OBS (macOS Version)"
 date: 2024-03-04T09:36:33-08:00
-draft: false
+draft: true
 cover:
     image: img/pianotopdowncover.png
     alt: 'Canva is great for this stuff'
