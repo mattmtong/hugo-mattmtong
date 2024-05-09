@@ -9,6 +9,8 @@ categories:
 showtoc: false
 searchhidden: true
 ShowBreadCrumbs: false
+comments: false
+ShowReadingTime: false
 ---
 
 Welcome to the about page.
