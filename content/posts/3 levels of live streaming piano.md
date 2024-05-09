@@ -17,7 +17,7 @@ And now, here are **three levels of setup** for anyone who might be interested i
 
 &nbsp;
 
-Get your phone, get an adapter (like [this one](https://amzn.to/3qVM4I8)) to attach to a tripod, setup the tripod, and then use your streaming app of choice. Done.
+Get your phone, get an adapter (like [this one](https://amzn.to/3qVM4I8)) (like <a href="https://amzn.to/3qVM4I8" rel="noopener" target="_blank">this one</a>) to attach to a tripod, setup the tripod, and then use your streaming app of choice. Done.
 
 Your phone acts as your one-stop shop for capturing all audio/video and streaming it onto the internet, so it will pick up **whatever sound and activity** is happening in the environment (which can be both good/bad, depending on your needs). For streaming apps, Twitch/YouTube/FaceBook/Instagram/etc all have built-in capabilities to stream straight from the mobile app. You could also look into using something like [Streamlabs](https://streamlabs.com/mobile-app) if you want to add overlays to your stream.  
 
