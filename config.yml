@@ -7,8 +7,9 @@ params:
   cover:
     linkFullImages: false
 
-  defaultTheme: auto
-  disableAnchoredHeadings: false
+  defaultTheme: dark
+  disableThemeToggle: true
+  disableAnchoredHeadings: true
   ShowBreadCrumbs: true
   ShowFullTextinRSS: true
  
