@@ -11,6 +11,7 @@ searchhidden: true
 ShowBreadCrumbs: false
 comments: false
 ShowReadingTime: false
+ShowWordCount: false
 ---
 
 This site's posts and content are written by me, Matthew Tong! I'm a Christian, a musician, an aspiring stenographer, and a gaming/tech enthusiast.
