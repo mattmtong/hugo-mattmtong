@@ -1,6 +1,6 @@
 baseURL: https://mattmtong.com
 languageCode: en-us
-title: "matt m tong"
+title: "Matt M. Tong"
 theme: PaperMod
 
 params:
@@ -8,7 +8,7 @@ params:
     linkFullImages: false
   defaultTheme: dark
   disableThemeToggle: false
-  disableAnchoredHeadings: true
+  disableAnchoredHeadings: false
   ShowBreadCrumbs: true
   ShowFullTextinRSS: true
   ShowReadingTime: true
