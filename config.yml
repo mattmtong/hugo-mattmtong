@@ -12,7 +12,7 @@ params:
   disableAnchoredHeadings: true
   ShowBreadCrumbs: true
   ShowFullTextinRSS: true
-  disableScrollBarStyle: true
+  disableScrollBarStyle: false
   ShowReadingTime: true
   comments: true
   ShowWordCount: true
