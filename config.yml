@@ -6,13 +6,12 @@ theme: PaperMod
 params:
   cover:
     linkFullImages: false
-
   defaultTheme: dark
   disableThemeToggle: false
   disableAnchoredHeadings: true
   ShowBreadCrumbs: true
   ShowFullTextinRSS: true
-  disableScrollBarStyle: false
+  disableScrollBarStyle: true
   ShowReadingTime: true
   comments: true
   ShowWordCount: true
