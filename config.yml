@@ -1,6 +1,6 @@
 baseURL: https://mattmtong.com
 languageCode: en-us
-title: "Matthew M. Tong"
+title: "matt m tong"
 theme: PaperMod
 
 params:
@@ -22,8 +22,8 @@ params:
 
   label:
     text: "matt m tong "
-    //icon: /img/logo_dark.png
-    iconheight: 20
+    icon: /img/logo_dark.png
+    iconheight: 24
   
   editPost:
         URL: "https://github.com/mattmtong/hugo-mattmtong/tree/master/content"
