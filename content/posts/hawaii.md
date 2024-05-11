@@ -1,8 +1,8 @@
 ---
-title: "Hawaii"
-date: 2023-03-27T16:57:00-08:00
+title: "2024 Oahu Trip"
+date: 2024-05-10T17:59:00-07:00
 draft: true
-tags: ["guitar"]
-categories: ["trips"]
+tags: ["trips", "food"]
+categories: []
 ---
 
