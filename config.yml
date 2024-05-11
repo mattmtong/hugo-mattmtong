@@ -18,13 +18,14 @@ params:
     linkFullImages: false
   defaultTheme: dark
   disableThemeToggle: false
-  
+
   disableAnchoredHeadings: false
   ShowBreadCrumbs: true
   ShowFullTextinRSS: true
   ShowReadingTime: true
   comments: true
   ShowWordCount: true
+  ShowPostNavLinks: true
 
   assets:
     favicon: /assets/Logo for Favicon.png
