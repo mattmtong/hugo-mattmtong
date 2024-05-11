@@ -22,4 +22,4 @@ For steno, I began my journey in 2022, and am currently working on dictations at
 
 You can find some of the things I do on my [YouTube channel](https://www.youtube.com/@mattmtong).
 
-This site was setup primarily through the use of [this tutorial](https://youtu.be/hjD9jTi_DQ4?si=w5fSLJBZ9vXeUqTL). My domain is registered through [Hover](https://www.hover.com).
+This site was setup primarily through the use of [this tutorial](https://youtu.be/hjD9jTi_DQ4?si=w5fSLJBZ9vXeUqTL). My domain is registered through [Hover](https://www.hover.com) and my site is deployed through [Netlify](https://www.netlify.com). [Harsha](https://www.fiverr.com/harshas?source=Order+page+seller+link) is the mastermind behind my personal logo.
