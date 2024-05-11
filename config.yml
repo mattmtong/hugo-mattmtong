@@ -3,11 +3,22 @@ languageCode: en-us
 title: "Matt M. Tong"
 theme: PaperMod
 
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
 params:
+  env: production
   cover:
     linkFullImages: false
   defaultTheme: dark
   disableThemeToggle: false
+  
   disableAnchoredHeadings: false
   ShowBreadCrumbs: true
   ShowFullTextinRSS: true
