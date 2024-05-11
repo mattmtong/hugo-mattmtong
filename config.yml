@@ -24,7 +24,7 @@ params:
 
   label:
     text: "matt m tong "
-    icon: /img/logo_dark.png
+    icon: /img/logo_bordered.png
     iconheight: 24
   
   editPost:
