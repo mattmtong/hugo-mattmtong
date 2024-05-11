@@ -12,13 +12,15 @@ params:
   disableAnchoredHeadings: true
   ShowBreadCrumbs: true
   ShowFullTextinRSS: true
- 
+  disableScrollBarStyle: true
+  ShowReadingTime: true
+  comments: true
+  ShowWordCount: true
 
   assets:
     favicon: /assets/Logo for Favicon.png
     favicon16x16: /assets/favicon-16x16.png
     favicon32x32: /assets/favicon-32x32.png
-    disableScrollBarStyle: true
 
   label:
     text: "matt m tong "
@@ -29,13 +31,6 @@ params:
         URL: "https://github.com/mattmtong/hugo-mattmtong/tree/master/content"
         Text: "View on GitHub" # edit text
         appendFilePath: true # to append file path to Edit link
-
-
- 
-
-  ShowReadingTime: true
-
-  comments: true
 
   homeInfoParams:
     Title: "Hello there, fellow player of life \U0001F579"
