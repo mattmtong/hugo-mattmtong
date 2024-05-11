@@ -11,7 +11,6 @@ params:
   disableAnchoredHeadings: true
   ShowBreadCrumbs: true
   ShowFullTextinRSS: true
-  disableScrollBarStyle: true
   ShowReadingTime: true
   comments: true
   ShowWordCount: true
@@ -20,6 +19,7 @@ params:
     favicon: /assets/Logo for Favicon.png
     favicon16x16: /assets/favicon-16x16.png
     favicon32x32: /assets/favicon-32x32.png
+    disablesScrollBarStyle: true
 
   label:
     text: "matt m tong "
