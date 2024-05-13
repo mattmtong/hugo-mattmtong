@@ -26,6 +26,7 @@ params:
   comments: true
   ShowWordCount: true
   ShowPostNavLinks: true
+  tocside: right
 
   assets:
     favicon: /assets/Logo for Favicon.png
