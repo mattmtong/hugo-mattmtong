@@ -26,7 +26,6 @@ params:
   comments: true
   ShowWordCount: true
   ShowPostNavLinks: true
-  tocside: right
   EnableInstantClick: true
 
   assets:

@@ -5,6 +5,7 @@ draft: false
 tags: ["piano", "recording", "streaming"]
 categories: ["tutorials"]
 showtoc: true
+tocside: right
 ---
 
 The COVID-19 quarantine has left me at home with more time on my hands, which has led me to try out some piano live streaming. I am by no means a professional streamer, and the upcoming jumble of words are a result of my personal experiences and my expeditions into the Google abyss.  
