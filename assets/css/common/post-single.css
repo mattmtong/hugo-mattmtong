@@ -360,14 +360,17 @@ h6:hover .anchor {
 }
 
 .paginav {
+    margin-top: var(--content-gap);
     display: flex;
     line-height: 30px;
+    border-radius: var(--radius);
 }
 
-.paginav a {
-    padding-inline-start: 14px;
-    padding-inline-end: 14px;
-    border-radius: var(--radius);
+.paginav svg {
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    vertical-align: -0.125em;
 }
 
 .paginav .title {
