@@ -6,6 +6,7 @@ summary: about
 draft: false
 tags: []
 categories: []
+editPost: 
 showtoc: false
 searchhidden: true
 ShowBreadCrumbs: false
