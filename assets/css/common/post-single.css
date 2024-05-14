@@ -411,6 +411,6 @@ img.in-text {
 
 .comments-divider {
     margin: calc(var(--content-gap) * 1) 0;
-    height: 1px;
+    height: 3px;
     background-color: var(--secondary);
 }
