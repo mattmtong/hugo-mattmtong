@@ -355,16 +355,17 @@ h6:hover .anchor {
 }
 
 .paginav {
-    margin: 10px 0;
+    margin-top: var(--content-gap);
     display: flex;
     line-height: 30px;
     border-radius: var(--radius);
 }
 
-.paginav a {
-    padding-inline-start: 14px;
-    padding-inline-end: 14px;
-    border-radius: var(--radius);
+.paginav svg {
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    vertical-align: -0.125em;
 }
 
 .paginav .title {
@@ -379,7 +380,10 @@ h6:hover .anchor {
     width: 50%;
 }
 
-.paginav span:hover:not(.title) {
+.paginav a span {
+    transition: var(--link-transition);
+}
+.paginav a:hover span:not(.title) {
     box-shadow: 0 1px 0;
 }
 
