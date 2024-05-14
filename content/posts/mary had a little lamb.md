@@ -8,7 +8,7 @@ categories: ["production notes"]
 
 Thanks to a friend's suggestion, I arranged and [uploaded](https://www.instagram.com/p/Bt4t8zzgCZ0/) an overly flourished cover of a familiar nursery rhyme tune. 
 
-{{< instagram Bt4t8zzgCZ0 >}}
+{{<instagram Bt4t8zzgCZ0>}}
 
 It was a fun challenge, and I'm hoping that this sparks a series of covers that will continue until who knows when. Along with each cover, I plan to write out a companion post on this blog to share my creative process, so here's my first one!
 
