@@ -296,6 +296,11 @@
     margin-top: 56px;
 }
 
+.comments-separator {
+    height: 3px;
+    background-color: var(--tertiary);
+}
+
 .post-tags li {
     display: inline-block;
     margin-inline-end: 3px;
@@ -402,4 +407,10 @@ h1>a>svg {
 img.in-text {
     display: inline;
     margin: auto;
+}
+
+.comments-divider {
+    margin: calc(var(--content-gap) * 1) 0;
+    height: 1px;
+    background-color: var(--secondary);
 }
