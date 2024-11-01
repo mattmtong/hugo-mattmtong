@@ -1,7 +1,7 @@
 baseURL: https://mattmtong.com
 languageCode: en-us
 title: "Matt M. Tong"
-theme: PaperMod
+theme: PaperModX
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -27,6 +27,8 @@ params:
   ShowWordCount: true
   ShowPostNavLinks: true
   EnableInstantClick: false
+  TocSide: 'left'
+  EnableInstantClick: true
 
   assets:
     favicon: /assets/Logo for Favicon.png
